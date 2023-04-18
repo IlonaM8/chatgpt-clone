@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IlonaM8/chatgpt-clone/static/css/main.5fe4885f.css",
+    "main.js": "/IlonaM8/chatgpt-clone/static/js/main.af360524.js",
+    "index.html": "/IlonaM8/chatgpt-clone/index.html",
+    "main.5fe4885f.css.map": "/IlonaM8/chatgpt-clone/static/css/main.5fe4885f.css.map",
+    "main.af360524.js.map": "/IlonaM8/chatgpt-clone/static/js/main.af360524.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fe4885f.css",
+    "static/js/main.af360524.js"
+  ]
+}
